@@ -2,7 +2,20 @@
 
 A professionally organized collection of **2,053 n8n workflows** with a lightning-fast documentation system that provides instant search, analysis, and browsing capabilities.
 
+**Click on the Workflows folder to get started and take a look at all of the AI Agents!**
+
 ## 🚀 **NEW: High-Performance Documentation System**
+
+- ⚡ **Sub-100ms response times** with SQLite FTS5 search
+- 🔍 **Instant full-text search** with advanced filtering
+- 📱 **Responsive design** - works perfectly on mobile
+- 🌙 **Dark/light themes** with system preference detection
+- 📊 **Live statistics** - 365 unique integrations, 29,445 total nodes
+- 🎯 **Smart categorization** by trigger type and complexity
+- 🎯 **Use case categorization** by service name mapped to categories
+- 📄 **On-demand JSON viewing** and download
+- 🔗 **Mermaid diagram generation** for workflow visualization
+- 🔄 **Real-time workflow naming** with intelligent formatting
 
 **Experience 100x performance improvement over traditional documentation!**
 
@@ -17,28 +30,6 @@ python run.py
 # Open in browser
 http://localhost:8000
 ```
-
-**Features:**
-- ⚡ **Sub-100ms response times** with SQLite FTS5 search
-- 🔍 **Instant full-text search** with advanced filtering
-- 📱 **Responsive design** - works perfectly on mobile
-- 🌙 **Dark/light themes** with system preference detection
-- 📊 **Live statistics** - 365 unique integrations, 29,445 total nodes
-- 🎯 **Smart categorization** by trigger type and complexity
-- 🎯 **Use case categorization** by service name mapped to categories
-- 📄 **On-demand JSON viewing** and download
-- 🔗 **Mermaid diagram generation** for workflow visualization
-- 🔄 **Real-time workflow naming** with intelligent formatting
-
-### Performance Comparison
-
-| Metric | Old System | New System | Improvement |
-|--------|------------|------------|-------------|
-| **File Size** | 71MB HTML | <100KB | **700x smaller** |
-| **Load Time** | 10+ seconds | <1 second | **10x faster** |
-| **Search** | Client-side only | Full-text with FTS5 | **Instant** |
-| **Memory Usage** | ~2GB RAM | <50MB RAM | **40x less** |
-| **Mobile Support** | Poor | Excellent | **Fully responsive** |
 
 ---
 
